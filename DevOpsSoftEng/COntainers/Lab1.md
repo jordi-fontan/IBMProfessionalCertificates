@@ -170,6 +170,9 @@ You should see two namespaces listed starting with sn-labs:
 
     Ensure that you are targeting the region appropriate to your cloud account, for instance us-south region where these namespaces reside as you saw in the output of the ibmcloud target command.
 
+![imagen](https://user-images.githubusercontent.com/63612112/199306169-cd739287-2b03-4848-aa02-116976ceee35.png)
+
+
 ibmcloud cr region-set us-south
 
 
@@ -181,6 +184,8 @@ ibmcloud cr login
     Export your namespace as an environment variable so that it can be used in subsequent commands.
 
 export MY_NAMESPACE=sn-labs-$USERNAME
+
+![imagen](https://user-images.githubusercontent.com/63612112/199306714-942d871f-92ca-42fb-8c1d-c96a954caa30.png)
 
 
     Tag your image so that it can be pushed to IBM Cloud Container Registry.
@@ -198,8 +203,7 @@ docker push us.icr.io/$MY_NAMESPACE/hello-world:1
     Verify that the image was successfully pushed by listing images in Container Registry.
 
 ibmcloud cr images
-
-
+![imagen](https://user-images.githubusercontent.com/63612112/199307064-fc6f2748-14c8-4502-9651-bd395ca42669.png)
 Optionally, to only view images within a specific namespace.
 
 ibmcloud cr images --restrict $MY_NAMESPACE
