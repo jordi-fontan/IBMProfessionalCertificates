@@ -1,0 +1,17 @@
+[Music] Welcome to this introductory course on Containers and Kubernetes. My name is Alex Parker and I'm Upkar Lidder. This course was made for anybody who wants to learn how to design, develop, deploy, manage secure applications on public, private, and
+hybrid cloud platforms. By the end of this course, you will not only
+have a running application on public cloud but also have a really good understanding
+of Kubernetes and Containers. Containerization is not a new technology,
+but it rose to greater prominence in 2013 with the release of Docker, and it hasn't
+stopped growing since. In fact, containers have become the technology
+for modern cloud native development. The analyst firm Gartner predicts that by
+2023 over 70 percent of global organizations will be running more than two
+containerized applications in production, up from less than twenty percent in 2019. The Cloud Native Computing Foundation known as CNCF conducts annual surveys to discern where and how cloud native technologies are being adopted. The 2019 survey indicates that 84 percent
+of respondents are using containers in production up from 74 percent in 2018; and 23 percent in the first survey in 2016. These trends clearly demonstrate that containers
+aren't a passing fad or a niche technology but an industry changing revolution that will
+impact organizations small and large, and developers worldwide. Likewise, Kubernetes, an open source platform for orchestrating running containers was developed and contributed to the open source community by Google in 2015. The Cloud Native Computing Foundation did a survey in 2019 and found that the number of users or respondents who were interested in cloud native computing technologies went up from 58 percent to 78 percent from the
+previous year. Kubernetes is the third largest platform for number of committers on GitHub as well as second largest for a number of issues and pull requests only after the Linux Kernel. A thriving ecosystem surrounds the open source Kubernetes platform including applications for cloud security, service mesh as well as other cloud native technologies. As a result of these things, Kubernetes and Containers have become the de facto standards when talking about cloud native applications, also making them the foundation for any cloud computing related learning. This course will introduce you to Containers, Docker, and container registries, to get you started with the foundations of this technology. Then you'll learn about the need for container orchestration in Kubernetes specifically, including its architecture, the different
+resources you can deploy in Kubernetes, and how to put those pieces together to deploy a working application. And finally, you'll learn about the Kubernetes ecosystem, including Red Hat OpenShift and Istio, and how these tools can make your journey to containerization, and your subsequent use of containers so much better. The course contains several hands-on labs that will help you apply the content you learn. If you do not have the resources to set up
+a Kubernetes cluster, the course will provide an environment free of charge which will help you to finish the labs. The prerequisites for this course include
+basic computer and cloud literacy, as well as an understanding of core cloud
+concepts. In addition, understanding of the command line and how to use shell commands will greatly benefit you during this course. Let's get started! Let's get started!
