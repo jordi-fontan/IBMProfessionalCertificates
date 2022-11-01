@@ -1,0 +1,130 @@
+After watching this video, you'll be able
+to list the five practices of working Agile, explain working in small batches, define a
+minimum viable product, understand behavior driven development, understand test driven
+development, explain how pair programming works. So let's take a look at what it really means to
+work in an Agile fashion. First, you want to work in small batches. We get this from lean manufacturing.
+You don't want to make a big batch of something and then find out that you did it wrong because
+that's a lot of waste having to go back and change it. Next, you want to use minimum viable products
+to figure out what does the customer like, what doesn't the customer like. And then you want to
+use practices like behavior driven development and test driven development to improve your
+testing of the system from the outside in and from the inside out. And then finally you want
+to take advantage of pair programming. This came from extreme programming but pair programming is
+critically important. So we're going to look at each one of these in turn. Working in small batches--
+let's say I need to mail out a thousand brochures. And the steps are you need to fold the brochures
+and then insert the brochures into envelopes, and then seal the envelopes and then
+finally stamp the envelopes with postage. So let's say that we're going to do these thousand
+in batches of 50, right, big batches, 50 a piece and assume that each step takes about six seconds to
+complete. So I can do about 10 steps per minute. And so we do the first step folding, right? And at
+10 for a minute, it takes me about five minutes to fold 50 of them. Then I move on to the next step.
+The next step is inserting them all and again, if I could do about 10 of them per minute, and
+so it takes me five more minutes, plus the five minutes from before. Now I'm 10 minutes into it.
+I've got them all folded and inserted then I move on to step three sealing them all, right? So
+now again about 10 per minute I could do another 50 in another five minutes. So I'm up to
+15 minutes, right? Wall clock time. And then finally I get to step four and it took me 16
+minutes to get my first finished product right? The first one where I had things that I could
+actually inspect it and see what the quality was. So, what if the envelopes had no glue, right? It
+would be 11 minutes before I figure out that something went wrong. What if there's a typo
+on the brochure? I have to go all the way back to the beginning, right? So, this is just very, very
+wasteful working in these large batches like this. Now let's look at the same example with single
+piece flow. And again, assume each step takes about six seconds to complete. With single piece flow,
+I fold, right? And put them in the envelope and seal them and put a stamp on them and the first
+finished product is in about 24 seconds. Now I can inspect it see if it works, see if it's what I
+thought it was, and then let the rest of the flow rip. Now what if the envelopes had no glue? Well
+I would find out after, uh, maybe 18 seconds, right? And if there was a typo in the brochure, after 24
+seconds, so it's very, very important that we don't work in two larger batches so that we can get
+fast feedback and that we can pivot and understand, you know, do we need to do something different
+and then make the changes that we need to make? So let's talk about minimum viable product. First,
+let's understand what it is not, because there's a misconception that a minimum viable product
+is like phase one of the project or, you know, the first beta or something like that. And it's
+not. This is not what a minimum viable product is. A minimum viable product is the minimal thing
+that you can do to prove a hypothesis and gain learning and gain understanding. The difference
+between these two is that the first one is all about delivery, right? What am I going to
+deliver? But the second one is all about learning. What can I learn? What can I learn from
+putting out this MVP and get feedback and then maybe make the next one even better?
+So it's important that at the end of each MVP you decide whether to pivot or persevere. Let's
+look at an example. Here's a team that's developing a minimum viable product for a customer that wants
+a car. And so, in the first iteration, they deliver a wheel. The customer's like, "What am I going to do
+with a wheel? I can't do anything with this?" Like, well, we're working iterations, we're trying to be
+agile here, right? And so the next iteration, we'll give you some more. And they give them a chassis
+and it's like, okay, "I really can't do anything with this." And then finally, you know, they give
+them a car with no steering wheel and then eventually they get the car, right? And so they
+get this coupe. That team did not understand how to create a minimum viable product.
+They were just doing iterative development. The second team understands the value of
+creating an MVP. At first, they give them a skateboard and the customer's like, "I asked
+you for a car and you're giving me a skateboard." Whoa, whoa we're testing the color. How do you like
+that color red? Is that the color you want? "Oh yeah, red's kind of cool but you know it's really hard
+to steer." No, we'll fix that in the next MVP and then they add a way to steer it and the customer's
+like, "Well, okay, you did give me a way to steer it but I can't go very fast. I need a better form
+of locomotion." And then we'll deal with that in the next MVP. In the next iteration, they give them
+pedals. Somewhere along the way while the customer is riding on that motorcycle feeling the wind in
+their hair they decide, "I want a convertible." In the first instance, the customer got exactly what they
+asked for months before because they were just following a plan but in the second instance
+the customer got exactly what they desired because they were working interactively with
+the development team and in the end, you develop something that's a little bit different but it's
+closer to what the customer really, really wants. Behavior driven development is when we describe
+the system from the outside in. This is usually done at an integration testing level, right?
+So, this is where we're taking the customer's view of the system usually when you're doing BDD
+testing, you're doing it against the user interface, right? You're doing it against the thing that the
+customer sees to see if the system behaves the way it's supposed to. So, if it's an e-commerce
+system, when I put something in my cart, does it behave the way I want? When I transfer a cart
+to an order, does it behave the way I want? It's really taking an outside-in approach. It's not
+too concerned with the things going on underneath. The cool thing is it uses a single syntax that
+both the developers and the stakeholders can use to describe the system and agree on the
+behavior of the system, on what the system does. So, let's take a look at that syntax. It starts
+with these BDD feature scenarios. Where I say, "As a sum role, so, I want to know who is this
+for. I need some function, right? So what is it the functionality that we actually need so
+that I get some business value?" So, now you know who is it for. Is it for the customers? For the
+system administrator, right? Who's getting the value out of this what do they need and why do
+they need it? And that's the beginning of your feature file. And then you start running through
+scenarios and here's where we use this common syntax. It's known as Gherkin syntax after the
+Gherkin pickle. And it goes something like this: Given a set of preconditions, right? So, that kind
+of sets up the scenario-- given that this is true. I've got two items in my cart. I got three items
+that I order, whatever. When some event happens, right? So, that's the thing that's under test. Then
+I should see some observable outcome. So, using this given when-then syntax, developers can understand
+it, stakeholders can understand it, everybody can understand this common syntax that when I have
+something in my cart and then I clear my cart, you know, I should see nothing in my cart. So very,
+very important to have the syntax in these BDD scenarios. Test-driven development is testing a
+system from the inside out. Unlike behavior-driven development. It is concerned with the internals
+of the system, the single modules. Usually this is called unit testing, right? And this is something
+that is unit test case driven and we want to make sure that given these inputs I get these outputs
+at a small module level. I don't know if when I put them all together I'm going to get the behavior
+I want. That's kind of BDD but for TDD, test driven development, I'm just testing the system way
+down at the unit level and so you write a test case first for the code you wish you had and then
+you write enough code to make that test case pass and then you start all over again and refactor.
+So the workflow goes something like this: I write a test case. You might say, "You write test
+cases before you write the code?" Yeah this keeps me featured on what is the code supposed to do. When I
+call this, how do I want to call this? What are the parameters I think I  want to pass in and then what
+does it do for me? So, you write the test case first then you write enough code to make that test case
+pass and then once it passes then you can refactor the code because now you have test cases to keep
+you honest, you'll know if you broke anything. Now, because when the test case runs and it fails
+it usually turns red and then when it works correctly it turns green; we tend to call this Red,
+Green, Refactor. Watch a test case, write a test case watch it fail, make just write enough code to make
+it pass, and then refactor make it-- you might not have made it very elegant just to make it pass--
+now you can go back and you can add all sorts of error checking and whatnot make it a little more,
+uh, robust and then run the test cases. Make sure you didn't break anything. Pair programming. Pair
+programming, you might say two programmers working together on the same thing, uh, and the first
+thing is: I'm paying two people to do one job? But actually it works out really, really well
+because what you're doing is you've got one person writing code and then you've got another
+person who has another set of eyes on the code. So the question is, would you rather find bugs in
+production? Would you rather find bugs while you're writing the code? It's a lot cheaper to find them
+while you're writing the code, so having two sets of eyes, they check each other and they go back
+and forth. It's not just one and then the other. Usually in 20 minute increments, right? Somebody's
+writing code, the other one is watching and they're not just watching. Sometimes they're looking things
+up, sometimes they're discussing. "What do you think I should call this variable? What do you think I
+should call this function?" Right? It's two sets of minds working around this code and what happens is
+you actually get higher quality code at the end of the day, right? The code quality goes up because
+two people have already checked it and so when you say, "I can't afford to pay two people to write
+one piece of code." You can't afford not to pay two people to write it because writing the code is the
+cheap part. Debugging it, maintaining in production, that's the expensive part and so if you want the
+expensive part to get cheaper you want to have your programmers do pair programming. It's also
+very good to put a senior programmer with a junior programmer. Now the junior programmers can see: How
+does the senior programmer approach the problem? And so they learn, they get mentorship, and then
+the senior program can see how the junior person is making out. Or you get people who are unfamiliar
+with the code working with someone who is. Now you get more people learning the code because they
+they're and they're getting like a tutorial from the other person. So pair programming is really,
+really great way of bringing all your people on your team up to a certain level. In this video
+you learn that working in small batches means delivering something useful quickly, an MVP is
+the cheapest, easiest thing you can do to test the hypothesis and learn. Behavior driven development
+makes sure you're building the right thing. And test driven development makes
+sure you're building the thing right. While pair programming enables you to discover
+defects earlier and increase your code quality.

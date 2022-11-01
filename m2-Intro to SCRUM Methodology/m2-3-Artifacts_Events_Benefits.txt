@@ -1,0 +1,74 @@
+After watching this video, you'll be able
+to describe the three Scrum artifacts, explain the five Scrum events, and discuss the benefits
+of Scrum. Let's take a look at the artifacts of Scrum. The first is the product backlog.
+This is a list of all the stories you're ever going to want to do. It's all your requirements
+for the product that haven't been done yet. So any stories that are not in the current
+sprint, are in the product backlog. Some teams have a product backlog and an icebox and a
+release backlog. But for the most part, we'll call those all the product backlog, everything
+you ever going to do in the future. Then there's the sprint backlog. Those are the stories
+that you're going to do in the next two weeks, in the next sprint. So, those are stories that
+are kind of on deck to be executed. And then you've got a done increment. A done increment
+is a product increment that is completed by the end of a sprint. And so, you work for two
+weeks in a sprint. And then, hopefully, at the end of that, you've got a complete or done
+increment. Scrum has five events. The first is the sprint planning meeting. That's where
+you get together to plan out the sprint. In that meeting, you'll have the product owner
+and the Scrum master and the entire team planning out what to do next, where the team commits
+to the stories that they're going to fulfill in the next sprint. Then you've got the daily
+Scrum or daily stand-up meeting. And this happens every day, right? Usually in the same
+place, same time, where they meet to kind of synchronize on how are we doing? What are
+we going to get done today? And does anybody have any impediments that can be relieved
+by the Scrum master? Then there's the sprint itself, right? That is the two weeks in which
+everybody is working. And then at the end of the sprint, you have a sprint review. That's
+demo time. That's when you demonstrate what you've done to the stakeholders so they could
+see the advancements that you've gotten, the new features that you've put in the product.
+And then finally, and most importantly, is the Sprint retrospective. That retrospective
+is where the team reflects on what went well what didn't go well, what can we change for
+the future? So, what are some of the benefits of using Scrum? Well, higher productivity,
+right? When everybody is meeting every day to understand what to do when we've got a
+Kanban board, with all our work in progress, everyone can see what everyone's working on.
+It lends itself to higher productivity, because people are kind of self-managing and being
+very productive. Also, better quality, right? Better software quality, because the team
+is engaged in what they're doing. They're running tests, they're using behavior driven
+development, they're using test driven development, right? And they are getting higher quality
+out of their, out of the code that they're writing because they're constantly testing
+it. You get reduced time to market because you're
+working in small increments. So, small increments mean, I get something done, I get a done increment
+sooner that I can then put out and have customers test and have customers enjoy. You're also
+increasing stakeholder satisfaction, because they're not waiting months and months and
+months to see if whatever you build is what they want. They get to see it much quicker,
+that makes them much happier. And then, of course, you get better team dynamics because
+it's transparent. Everyone knows what everyone's working on. Everybody chips in when somebody
+gets stuck. It's really, really a better environment and a more productive environment for
+developers to be working in. And finally, that leads to happier employees, right? Employees
+understand that they are in control. They are pulling things off the backlog. They're
+committing to a sprint, one sprint plan at a time, and so they feel more in control
+and they feel happier about their jobs. I want to take a look for a moment at Scrum
+versus Kanban. We're going to use a Kanban board in Scrum, but we're not going to follow
+the whole Kanban process. So, I just want to show you what's different about it. When
+we talk about Scrum and talk about Kanban. First there's the cadence. Scrum uses fixed
+length sprints, usually two weeks in in duration. Kanban is continuous flow. It's something
+you would do on a manufacturing floor, right? You don't produce a batch of cars every two
+weeks. You have cars coming off the assembly line all day long. The release methodologies
+are different, right? Scrum releases at the end of a sprint and Kanban does continuous
+delivery. And so, some teams do software and follow Kanban where they continually
+deliver code. Whenever the code is ready they push it out. They don't wait to the end
+of a sprint. But Scrum uses these fixed length sprints to do release. And then there's the
+roles. I've just shown you that we have product owners and Scrum masters and development teams
+in Scrum, there are no real roles. There could be an Agile coach in Kanban but there are
+no roles in Kanban. There are just the people who are working to produce what it ever is
+you're producing. Then the key metrics in Scrum is velocity. We haven't learned about
+velocity yet, but velocity is how much work a team can get done in two weeks. Kanban
+looks at cycle time, you know, how long does it take from inception to getting something
+you know, off of the assembly line, right from beginning to end? What are my cycle
+times, you know, maybe getting an order from a customer and actually producing the
+number of things that are in that order. And then there's a change in philosophy, right?
+In Scrum, teams should strive not to make changes to the sprint forecast during the sprint.
+Sometimes it happens, sometimes you have to do it. But what you want to do is that two
+weeks is locked in and if anything else needs to be done, we'll address it at the end of
+the two weeks. Whereas, Kanban change can happen at any time. They're continuously improving,
+continuously changing, and anyone can decide there's a defect in something and make a change
+and change the process and keep going. There's no limit to the change philosophy. In this
+video, you learned that Scrum produces a product backlog, a sprint backlog, a complete or done
+increment. The Scrum events are sprint planning, daily Scrum meetings, sprints, sprint reviews,
+and sprint retrospectives. If done well, Scrum can increase employee productivity, happiness,
+improve product quality, reduce time to market and enhance stakeholder satisfaction.

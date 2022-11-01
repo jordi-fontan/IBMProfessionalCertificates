@@ -1,0 +1,97 @@
+After watching this video, you'll be able
+to describe the Waterfall approach to software development. Explain the problems with the Waterfall approach,
+describe Extreme Programming approach, list of values of XP approach, define Kanban, and list its core principles. So, let's take a look at a traditional Waterfall
+development. It all starts out with a requirements phase.
+People are gathering requirements, seeing what the customer wants, making sure that
+we're going to deliver something that the customer wants. At least for that point in
+time. And so this is a phase where all you're doing
+is documenting all the requirements of the customer might want in the system. Then you
+move on to the design phase. Notice I'm using the term phases here. This is very important, because there was
+exit criteria and entrance criteria to move from one phase to the other. So once we've got all the requirements, we
+move on to the design, hoping that we have all the requirements that we actually need. So then in the design phase, the architects
+are designing. They're figuring out how do we take those requirements, turn them into
+working software, and so they design the entire system. And then once that phase is done, we move
+on to the coding phase. So this is where the developers are hackety
+hacking coding away. Now, you'll notice this is called Waterfall
+and those arrows are flowing down. because it's really hard to swim up a waterfall. This is an appropriate name. Because when you're in the coding phase, and
+you find out, this is a bad design, it doesn't work, it's real hard to go back up and redesign
+things. In fact, because we treat software development
+like civil engineering projects, sometimes some of those designers have moved on to the
+next project, and you've got to go find them. So very, very difficult to go back and swim
+with the waterfall. Then after coding, we finally get to integrate. So all along, we're coding in isolation, we're
+not integrating my module with the next person's module. You know, there's a time when all
+those modules come together. The first time we realized, do all these pieces of code even
+work together? And then we move on to the testing phase,
+because now we've got a system that people can test. And as they find bugs, they got to go back,
+swim up the waterfall, and open some bugs in the coding phase and do some recoding. And then if one of those bugs that they tested,
+turns out to be, you really need to change the design because these things aren't interacting
+well, way, way up the waterfall, very expensive to go back up to the design phase. And then finally, after all the testing is
+done, we deploy the software. So what's wrong with this approach? Well, there's no provision for change. Every phase has entrance and exit criteria. And when one ends, you know, the next one
+begins. And there's just no provision for going back
+and changing the design or changing the requirements or anything like that. So the other problem is, you don't know if
+it works to the end, right, there's no intermediate delivery. Nothing is delivered, until that
+last step, when we give it to the operations team and say, go deliver this thing into production. The other is that each step ends when the
+next one begins, that's where it got this waterfall name, where things are just passed
+down. And of course, every one of these is an opportunity
+to lose information, you know, and to have a mishap happen or to have people get blocked,
+because they can't accept, you know, the work from the previous phase. And now you're waiting to get that next phase
+going. The other is that mistakes are found later
+on are very, very costly, very costly to find something that's designed wrong and testing
+and go back and redesign it. And then finally, there's the long lead
+times, right between getting that software delivered. From the time you first want the
+software, and you design the software and code it and test it. And by the time you finally deliver it long,
+long, long lead times. So the problem here is teams are working separately,
+they're unaware of their impact to each other. Right, designers are unaware of the impact
+of the code, the coders are unaware of their impact to integrating all the code together. There everybody's working in their little
+silos for their little phase. And then this should be a scary thought. The people who are furthest away from a code,
+the poor operations team, have to run this and manage this in production, right? They know the least about the code, and they're
+the ones who are expected to run it. Not very efficient. Let's talk about another methodology, extreme
+programming. This was introduced back in 96. Kent Beck introduced this and if you look
+at the graphic on the right, you'll see that it is very iterative and talking about loops. You've got these major release plan on the
+outer loop. And then you've got an iteration plan. And so the release maybe months, the iterations
+maybe weeks, acceptance has maybe days, stand up meetings
+once a day, right, pair negotiation in hours, unit testing in minutes, pair prpgramming in
+seconds. You know, it's these tighter and tighter loops
+of doing work and then getting fast feedback. It's based on an iterative approach to software
+development. And in fact, this is where Agile got it from. And the intent here is to improve software
+quality, right? Be responsive to change, be responsive to customer requirements, do things
+in small increments. And so many people recognize Extreme Program
+as one of the first Agile methods. So let's talk about Extreme Programming values. First is simplicity, right? Do what you need and no more, don't over-engineer, don't over
+code, don't deliver more code than the customer asked for. Keep it simple, very important. The next one is communication. Everyone on the team should be communicating
+know what everyone else is doing, it fosters a lot, a lot of communication, and people
+interacting. Very important as well. And then feedback, you have no idea how you're
+doing unless you're getting feedback. So having those feedback loops are critical
+to extreme programming, and critical to Agile in general. And then respect, everyone feels that they
+are respected on the team, that they can offer advice that they can make suggestions, and
+that their suggestions are just as valuable as anybody else's suggestion on the team. There's no hierarchy, everybody has peers
+on the team, and respected for their ideas. And then finally, courage, right, we don't
+pad our estimates, we're just very honest about we think we could do this And we don't think we can do that. And we're not going to lie to you that we
+you know, we can get this, this done in this amount of time. We're very open and honest in Extreme Programming
+on, these are the estimates, this is what we'll commit to. Next, there's Kanban. This comes from the Japanese manufacturing
+systems. And kanban literally means billboard sign,
+and it's all about continuous flow on the manufacturing floor, where these cards or
+notes would flow with the product from station to station, going down the line. So the core principle with Kanban are visualize
+the workflow. If you can't see the work, you can't manage
+the work. And this is something we take into Agile too.
+You're going to find out we're going to use Kanban boards and Agile. And it's all about visualizing the work, very
+important that you can understand the work that needs to be done, and everything is accounted
+for. Kanban also stresses limit the work in progress. You don't want, when you're on a manufacturing
+floor, you don't want work to back up at one of the stations. But even when you're developing software,
+you don't want to have people working on too many things at once. Because, you know, you can only ship 100%
+of one thing that's working, you can't ship 50% of two things. And so if you got one person working on two
+things, it's not good. And that comes from Kanban to limit the work
+in progress. Then there's managing and enhancing the flow.
+In Kanban, they're always looking to improve. They're always looking to change and understand
+how can we get a better flow, a quicker flow on the manufacturing floor, and then making
+policies explicit, so that everyone understands how things work. And everyone understands the definition of
+"done," what does it mean to have something be "done." We take that also from Kanban in our
+Agile planning to understand what the definition of"done" is. And then continuously improving, very, very
+important to get feedback and continuously improve on what you're doing. So Kanban is all about making the flows
+work better, understanding them, seeing them, being able to measure them, and then continuously
+improving on how we can flow faster. In this video, you learn that your traditional
+Waterfall approach to software development is a structured, step-by-step process that
+can lead to problems not surfaced until later in development. The extreme programming was developed to improve
+software quality and responsiveness to changing requirements. XP values include simplicity, communication,
+feedback, respect, and courage. Kanban is a system characterized by visualizing
+workflow, limiting work in progress, managing and enhancing the flow, making process policies
+explicit and continuously improving the process.

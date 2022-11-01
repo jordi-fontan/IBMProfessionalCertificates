@@ -1,0 +1,112 @@
+After watching this video, you'll be able
+to list the three rules of Scrum, explain what a product owner does, explain what a Scrum
+master does, and explain what a Scrum team does. There are only three roles in Scrum. It starts
+with the product owner. That's the person who has the vision. That's the person who calls the shots.
+They're the one who decides to pivot or persevere. Often I get asked the question, what's the
+difference between a product manager and a product owner? It's pretty simple. A product manager is a
+job title, a product owner is a Scrum role. Your product manager might be your product owner, might
+not be a product owner. Don't get them confused. This is a role in Scrum. Then, there's the Scrum
+master. We want them to be mentors, right? We want them to be the smartest person about Scrum on the
+team to help the rest of the team implement Scrum. So that is somebody that you want to be guiding
+the team. If you don't have an experienced Scrum Master, get one because that can make or break
+a team. If you've got experienced teams, maybe they don't need an experienced Scrum master, but
+if you've got a team just starting out in Scrum, I recommend the Scrum master be experienced. And
+then there's the Scrum team, or sometimes called the development team, not to be confused with
+the team of software engineers. The development team are the people who are developing whatever
+it is you're delivering. They could be software engineers, testers, operations folks, business
+analysts, whoever it is, that's part of the team that's delivering the product increment. So, let's
+dig deeper into each one of these roles to see what they do. The product owner, they represent
+the stakeholder interest. If there's any questions about what the stakeholders want, you should go
+to the product owner, you don't need to go to the stakeholder. Who is a stakeholder? it's usually
+the person with the checkbook. It's the person who is funding whatever it is that you're doing,
+right? They're the one at the end of the day that are paying you to do it. But this product
+owner is the liaison between the Scrum team and the stakeholders and their interests. They also
+articulate the product vision, this is very key. Product owners have to have a vision of where
+they're going. It's really, really important. And when and they should articulate that vision
+to the team, so the whole team knows where they're going. They are the final arbiter of requirements
+or questions, you have, any questions on the requirements, don't need to go to the stakeholders,
+you go to the product owner, they are the liaison. And they constantly reprioritize the product
+backlog, adjusting any expectations. And so, every time through a sprint, we go through the
+product backlog, the product owner, maybe the Scrum master, will go through the product backlog,
+and they will reprioritize and they will groom these stories and make them give them more detail.
+So, that is one of the jobs of the product owner, making sure that backlog is sprint ready. They
+also accept or reject each product increment. So that's the person that says "Yep, let's go with
+it. Let's ship it," or "Not quite what the customer asked for. You know, let's try again, we'll
+write some more stories and, and try to get it right the next time." So, they decide whether
+to ship, it's their sole responsibility. They decide whether to continue development, maybe you
+don't need to persevere, maybe you need to pivot, maybe you need to do something different.
+So they would make that decision as well. The Scrum master facilitates the Scrum process;
+they should be the smartest person in the room about Scrum. It's very important to
+have an experienced Scrum master if you have an inexperienced team. If you
+have a very experienced team in Scrum, you might not need a very experienced Scrum
+master. Or you might have a Scrum master between a couple of teams that are experienced
+because they don't need a lot of his time. They coach the team, we want them to be Agile
+coaches, right? We want them to be mentors, we want them to help the team through the Scrum
+process. They create an environment that allows the team to be self-organizing, right? So, the
+team decides what they do. They're the ones that are going to commit to a sprint increment.
+And the Scrum master has to make sure that the team has the ability and the environment
+in which they can do that and be self-organizing. They also shield the team from external
+interferences, right? Keep them in the zone. So, if customers are grabbing team members
+or stakeholders or calling team members, you know, the Scrum master needs to stop that. They
+need to say, "If you need something, you come to me. Alright? Let the team alone. Let
+them do the work they need to do." They also help resolve impediments. We're
+going to find that we do a daily stand up. And the three questions we ask during that stand
+up are: What did you do yesterday? What are you getting done today? And are there any impediments?
+If anyone on the team has an impediment it is the Scrum master's highest
+priority that day to get them unblocked, to remove that impediment. Very, very, very
+important. It's very different than traditional project management, where a project manager, if
+you've told me "I have impediment," they'll ask you, "What are you going to do about it?" That's not the
+Scrum master's job, the Scrum master's job to say "I will. Give that impediment to me, I will get it
+fixed you move on to some more productive work." They also enforce the sprint time boxes, right?
+So you've got the 15 minute daily stand-up, and they make sure it stays at 15 minutes, right? And
+all the other Scrum meetings, they make sure that they're timebox, the two week sprint, make sure
+we don't go over the two weeks during the sprint. They capture empirical data, maybe adjust
+forecasts, right? So, they're the one who's making sure, looking at burndown charts, and making
+sure that the team is going to reach their goals. And they should have no management authority over
+the team. And I get a lot of questions about this, you know, why can't they be a manager? Well,
+the Scrum master has to be, if you will, a friend to the team, right? A coach to the team.
+And it's a very unique manager, you know, that the team members can come to and tell them, you know,
+"I don't feel I have enough training for this," or "I don't feel like I'm good enough to do that,"
+or whatever. They need somebody that can confide in. And usually that's not a management person
+or somebody you know, who controls that person's salary. And so, they need to be there to lend an
+ear and to help the team. So, I recommend that they not be a manager of the team, they be
+somebody else that the team can confide in. Then there's the Scrum team themselves. This is
+a cross-functional team, consists of developers, testers, business analysts, domain experts,
+operations people, if you're doing DevOps, I mean, it's a cross-functional
+team very, very, very important that it's not just software engineers, like we
+used to do traditionally, when we did Waterfall development. The Scrum team is self-organizing,
+there's no externally assigned roles. Everybody is equal. Everybody has the same role. They're
+part of the Scrum team. They are self-managing, they self-assign themselves work. So, when
+you're looking at, you know, the kanban board, and you're saying, "Well, how do I know if somebody,
+I've assigned enough work to somebody?" The answer is you don't because you don't assign work to
+anyone. The Scrum team pulls the work off of the kanban board, assigns it to themselves and starts
+working on it. Very, very different. So, why say you know, Scrum, easy to understand, difficult to
+master. Some people can't get the hang of this, but this is how it works, you've got to let them
+be self-managing. Now, they shouldn't be too large. A Scrum team is seven plus or minus two.
+I've heard some people say five plus or minus two. But the idea is that they're small, they're not
+20-25 people. They should be co-located, if at all possible. They are most successful when they're
+co-located. There is empirical data for that, right? They just are more successful when
+people together, hopefully in the same team room, but if they can't be, my recommendation is if
+the team has to be geographically dispersed, put at least two members in a geography or
+time zone so that they can collaborate together. And then maybe I'll have other people a team in
+another timezone. Don't just stick one person alone in a time zone, they kind of get forgotten
+about, and it's really not fair to them. You need people to collaborate with-- very, very,
+very important. And then they're dedicated. Most successful teams have long-term, full-time
+members. They're not on multiple projects. They're not getting pulled off for other projects.
+You know, I've said, I've stood in meetings, daily stand ups, where someone says, "What do
+you do yesterday?" and they say, "My manager pulled me off to do something else. I didn't
+get anything done for this project yesterday." That is a sign that you're in trouble, right? You
+do not want to have people on multiple projects, you want them to be dedicated if you want
+to be a high performing, successful team. They negotiate commitments with the product owner,
+one sprint at a time. They're not committing for what they're going to do down the road. They're
+not committing in January for what they're going to do in September, they're going to commit. "What
+am I gonna get done in the next two weeks?" And they've got a ton of autonomy on how to reach
+those commitments. So, they're not told how to do something. They're told what needs to get
+done, and then get out of their way. You hired good people, let them do their thing and let
+them figure out how to get that thing done. In this video, you learn that the product
+owner represents stakeholders, articulates the product vision, and decides priorities,
+requirements, and readiness to ship. The Scrum master coaches the team, promotes a
+cooperative environment, shielding the team from interference and unblocking impediments. The
+Scrum team is small, dedicated, co-located, cross- functional, and self-managing. The Scrum team
+negotiates commitments with the product owner one sprint at a time. The Scrum team has
+autonomy regarding how to reach its commitments.

@@ -1,0 +1,34 @@
+After watching this video, you'll be able
+to discuss how Agile is more than just iterative development and describe what Agile is not.
+I want to introduce you to a pitfall that a lot of organizations fall into. They claim that
+they're Agile, and then they start a new project. And so they've got this studying and approval
+going on this design and planning. We call this the fuzzy front end, right? They're kind of doing
+waterfall stuff, they're building requirements, they're doing a lot of planning a lot of upfront
+stuff, it doesn't really seem Agile, then they get it doing the actual development. And there,
+they're being iterative. So they're iterating on the plan, iterating, iterating, iterating. The
+problem is, they're just iterating. They're not being Agile, they're not stopping at the end
+of each iteration, to get feedback from the customer, because they haven't deployed anything,
+they have no way of getting feedback from a customer. They're not stopping at the end of every
+iteration and saying, "Should I pivot or persevere?" They're just following a plan iterating, iterating,
+iterating, following the plan. And then finally, there's what we call the last mile. Where
+they're trying to deploy it, and it takes forever to deploy because nobody's ever deployed it
+before. This is the first time everything's been integrated together. Right. And the operations
+team is trying to get it all working. And it takes a long, long time. People think they're a Agile.
+They think they're working Agile simply because they're iterating. But we like to call this Water-
+Scrum- Fall. They're just doing Waterfall with they think they're doing Scrum in the middle.
+They're not really doing Scrum in the middle. They're just doing iterative development. And so
+this is a pitfall a lot of companies fall into, and it's really not being Agile. If a
+company is doing all this planning upfront, they're not being Agile, they're not going to
+be responsive to change, they're not going to be getting fast feedback unless they're deploying
+quickly. So this is a pitfall you want to avoid. So let's talk about what Agile is not. Agile
+is not just an iterative software development lifecycle, like a mini Waterfall, the if you're
+going to do Waterfall tactics and plan everything out, you're not going to be Agile. Agile
+is not just developers working in sprints, right? The development team and Agile are
+developers and testers and business analysts and maybe ops people if you're doing DevOps,
+right. It's a cross functional team, it's not just software engineers. And the Agile Manifesto
+has no mention of an Agile project manager, right? So there are no Agile project managers. If
+you've got a project manager who's doing command and control, you're not being Agile. In this
+video, you learned that many companies adhere to their Waterfall planning, and just call it Agile.
+simply doing iterative development is not Agile, unless you're being responsive to change and
+delivering value often. Project management is very different when working as an Agile team because
+self managed teams assign work to themselves.

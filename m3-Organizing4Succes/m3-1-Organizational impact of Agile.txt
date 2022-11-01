@@ -1,0 +1,57 @@
+After watching this video, you'll be able to
+describe how proper organization contributes to success, explain how team should be
+aligned, explain why autonomy is important, and discuss why the entire organization
+must adopt Agile to be effective. I can't stress enough how critical organization
+is to success. A lot of companies don't understand this. They go in with their existing
+teams, and they think they're going to make those teams agile. But what they don't realize is that
+your existing teams may need to be reorganized in order to take full advantage of becoming
+agile. Back in 1968, Melvin Conway made a statement that is now known as Conway's Law. Any
+organization that designs a system defined broadly will produce a design whose structure is a copy
+of the organization's communication structure. What this means is, if you ask for teams
+to build a compiler, you're going to get a four pass compiler, you should not be
+surprised you got a four pass compiler, you asked four teams to build it. Likewise, if you have
+a UI team and an app team and a database team, they're going to build a three tier architecture.
+And you should not be surprised you got a three tier architecture, you asked three teams to build it. So
+how should these teams be organized, they should be aligned. You want them to be loosely coupled.
+You don't want a lot of dependency between teams, but you want the teams to be tightly aligned,
+because they are building a single application. And then each team has its own mission,
+which should be aligned with the business. If I was developing an e commerce application, and
+I had 50 developers, I wouldn't put them on one big team like I did when I built monoliths. What
+I would do is I would break them up into smaller teams an order team, an accounts team, a shopkart.
+team, a recommendation team, right, and they would have ownership of that business area. And then
+the team should have end-to-end responsibility. You want them to build it, run it and debug it in
+production. You want that team to be responsible end-to-end for what they're building. And then
+finally, they need to have a long term mission. It really doesn't work well when you're
+pulling people on and off projects, because they don't feel a sense of ownership, so
+while long term mission is critical to business success. Autonomy is critically important.
+It's motivating, and motivated people build better stuff, it's just afact. It's
+fast. Decisions happen locally on the team level, rather than waiting for decisions to come down
+from on high. You know, this is what really holds people up. And so by minimizing these handoffs and
+waiting around, the teams don't get bogged down, they get to make their own decisions, and they
+get to run at their own speed. This graphic, the wall of confusion, was made famous by Andrew
+Clay Schafer, but it's all about the diametrically opposed metrics that we use with development
+and operations. Development wants change, right? They are measured on getting new changes
+out into production, whereas operations, they're measured on stability, how do you
+make the system stable, don't change anything. These are diametrically opposed views. And if you
+hold these views in your organization, it doesn't matter how agile you are, you're not going to get
+the benefits that you think you're going to get. Now, I didn't draw this graphic, but I was on a
+project just like this. We were being agile. We started out in January, and we were working in
+sprints, and finally in the middle of February, we had something we wanted to deploy. And so
+we went to the operations team and they said, "Open a ticket." We figured okay, we'll open a
+ticket, we'll get it deployed in a week or so. And the ticket stayed later and later and later,
+and we waited and we develop more functionality and still getting didn't get deployed. Well, finally the application got deployed in September, and I left the project in December. I couldn't
+take it anymore. The moral here is of the entire organization doesn't become Agile. It doesn't
+matter that your development team is agile. If your ops team is not, this is what DevOps is all
+about. And you really should look into adopting DevOps, if you want to take full advantage of
+becoming Agile. Otherwise, they're just going to wait and wait and wait for the ops team to
+catch up to the Agile development team. Let's look at the alignment of Agile and DevOps. One of
+the goals of Agile is to deliver software faster. While DevOps goal is accelerating time to market
+perfectly aligned. In Agile, we want to be responsive to change. In a DevOps, we're trying
+to tightly align the IT organization with the business to to produce business value. In Agile,
+we're looking at attaining higher quality and in DevOps, we're trying to increase the productivity
+of it. Those two goals are in alignment. And so quite often, if you really want to get the
+full benefit of being Agile, you should look into adopting DevOps as a practice as well, so that the
+ops team is just as agile as the development team. In this video, you learn that how you're
+organized can affect the systems that you build. Giving teams autonomy leads to motivated teams
+who can execute faster and build better systems. Not adopting Agile across your organization
+can lead to operational bottlenecks and Agile and DevOps are closely aligned goals.

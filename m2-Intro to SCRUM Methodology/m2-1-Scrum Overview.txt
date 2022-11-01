@@ -1,0 +1,53 @@
+After watching this video, you'll be able to
+distinguish between Agile and Scrum, define the key characteristics of the Scrum methodology,
+and describe the steps in the Scrum process. Agile and Scrum are two words that many people use
+interchangeably, but there really is a difference. Agile is a philosophy. It is not perscriptive.
+It's a philosophy for doing work. Scrum is a methodology. It is perscriptive. It's a
+methodology for working in an agile fashion. So, what is Scrum? Well, it's a management framework
+for doing incremental product development. It emphasizes small, cross-functional, self
+managing teams. And it provides a structure of roles and rules, and artifacts, and we're going to
+learn about all of those. It also uses these fixed length increments that are called sprints. We're
+going to get into sprints in a moment. And it has a goal of building an increment each time through
+a sprint, a potentially shippable increment each time through that iteration. Very, very important
+that you get stuff in your customers' hands early. So, I like to say, "Easy to understand, difficult
+to master." There's not a lot of rules in Scrum, but somehow it's really, really hard to do.
+And I attribute it to being a ballerina, like, all you have to do is dance on your toes,
+right? How hard could it be? Well, we all know it takes years to gain the muscle memory and build
+up your muscles to be able to dance on your toes. It's not as easy as it looks, and Scrum is the
+same way. Not as easy as it looks. So, my advice is if you've never done it before, hire somebody
+on the team who has, have someone to guide you, someone to mentor you, because it is a lot harder
+than it looks. So, let's talk about the sprint. A sprint is one iteration through the design, code,
+test, deploy cycle, right? So, you're doing these mini iterations. It's kind of like the software
+delivery lifecycle. In a mini inner iteration. Every sprint should have a goal, right? You
+should, everybody should, understand what is it we're trying to build with this increment. What
+should this increment do at the end of the sprint? And then the Sprints are usually two weeks
+long, some people say two to four weeks, I find four weeks to be far too long. A lot of
+things can change in four weeks, right? Remember small, want to work in small batches. And so, I
+think it's really important to try to keep your sprints to two weeks, some people get them down to
+one. That's a little too fast for me, but two weeks seems to be a good goal to make your sprints.
+So, let's look at the steps in the scrum process. You've got the product backlog.
+This is the list of all the stories of everything you ever want to do with your
+product. This is it, this is everything, it's kind of your to-do list of everything you
+might want to do. Then we've got something called backlog refinement, that's when we go through
+the product backlog. And we groom the stories to make sure that they're sprint ready because we
+want to start doing planning on those stories. Then, we have a planning meeting where we produce
+a sprint backlog. Notice the sprint backlog is smaller than the product backlog. The sprint
+backlog is just those stories that we want to accomplish in the next sprint, in the next two
+weeks. So we take from that product backlog, pare it down into a sprint backlog of just the
+stories to execute in the next sprint. And then we start our two week sprints. And every day we
+get together and do the daily Scrum or the daily stand-up where everybody gets to answer three
+questions. What did you do yesterday? What are you going to do today? And is there anything
+blocking you or impeding you from getting up further? So you go through that every
+day for two weeks, build your sprint. And then finally, hopefully, you've got a valuable
+shippable increment at the end of that process. Agile development is iterative. You're
+going to go through this again and again. Design, code, test, deploy, design, code, test,
+deploy. I mean, this is this is what you do in every sprint. And notice, you know, you've
+got to have some kind of deploy, it's not enough to just do design, code, and test, design, code
+without deploying it and getting feedback, right? So, so every sprint you make a plan,
+you go through the software delivery lifecycle cycle, and then you deploy that application
+and you get some feedback from the customer that is input to the next plan to go through the
+next cycle. In this video, you learn that Scrum is a methodology that follows the Agile philosophy.
+The Scrum management framework provides structure through defined roles, meetings, rules
+and artifacts. It also prescribes small cross-functional, self-organizing teams.
+Uses fixed length iterations called sprints, and produces a potentially shippable
+product increment with every iteration.

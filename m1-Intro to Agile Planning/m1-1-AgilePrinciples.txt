@@ -1,0 +1,53 @@
+After watching this video, you'll be
+able to define the Agile philosophy, describe the characteristics of Agile, and
+explain the philosophy of the Agile Manifesto. So, what is Agile? Agile is an iterative approach
+to project management that allows teams to be responsive and deliver value to their customers
+quickly. Notice I said iterative. Unlike other planning approaches where we plan out an entire
+year's worth of work, with Agile, we plan out small increments, and they get feedback from the
+customer to see if they like what we're doing. And then we adjust as we go along. So what
+are some defining characteristics? Well, Agile emphasizes this adaptive planning. As
+I said, we don't plan out an entire year, we just plan out a small iteration, to see if we
+can deliver something of value to the customer, and get feedback and see what they like. That
+allows us to do evolutionary development. So our development is evolving over time. We're building...
+instead of building the whole thing up at once, we're building it in small increments. And then we
+evolve as we go and respond as we go. This gives us the opportunity to do early delivery, very
+key. If you're developing iterations, and you're not delivering to your customer, you're not being
+agile, early delivery is a key component of being agile. Putting something in the customers' hands,
+getting feedback from them to understand, do they like it? Should we pivot, should we persevere?
+This is really, really a critical defining characteristic of being agile, over just doing
+iterative development. That leads us to continuous improvement. So now we can continuously improve
+as a team. We continuously improve the product that we're delivering, right, because we have the
+opportunity to get feedback from our customer, because we delivered it. And that allows us to
+be responsive to change. So as changes happen, and changes always do, customers always have
+changing requirements. We can respond to those changes, because we haven't planned too far in
+advance, the customer sees the progress we've made, and then we can re-plan very, very quickly,
+and be responsive to what a customer needs. This brings us to the Agile Manifesto. The Agile
+Manifesto says we have come to value individuals and interactions over processes and tools,
+working software over comprehensive documentation, customer collaboration over contract negotiation,
+and responding to change over following a plan. This is the important part. That is, while
+there's value in the items on the right, we value the items on the left more. It doesn't
+mean that we don't have processing tools, it just means that we value interacting amongst
+ourselves and with our customers more than the process and tools. It doesn't mean we don't
+document. Documentation is important so that people understand how to use your product. But we can't
+ship documentation. So let's not lose the focus. Working software is what we're here to deliver.
+It doesn't mean that we don't negotiate contracts, we still have contracts, but we want to
+collaborate with the customer. As things change, we want to be responsive, which
+means not that we don't have plans, but we value responding to change
+over simply following the plan. Agile software development then is an iterative
+approach to software development that conforms to the Agile Manifesto. We want to make sure that
+we're keeping those four things in the manifesto, you know, on our minds a whole time. We also
+want to make sure that we emphasize flexibility, interacting with our peers,
+interacting with our customer, and having a high level of transparency, so that
+everybody knows what everyone else is working on. Everybody feels responsible for delivering value
+to the customers. This is critically important. And then finally, we use small,
+co-located, cross-functional, self-organizing, self-managing teams, we're going
+to talk a lot about this during this course. The key takeaway here is to build what is needed,
+not what was planned. If you build what was planned and the customer doesn't like it, why
+did you bother building it? It's really, really important to make sure that as they needs change, and
+they will, you want to build what's needed from the customer regardless of what was planned. We could
+always replan and be responsive to change. In this video, you learn that Agile is an iterative,
+collaborative approach to software development using small cross functional teams. The Agile
+approach emphasizes flexibility, interactivity, and transparency. The Agile Manifesto describes
+the core values of Agile: Individuals and interactions over processes and tools, working
+software over comprehensive documentation, customer collaboration over contract negotiation,
+and responding to change over following a plan.

@@ -1,0 +1,37 @@
+Welcome to Introduction to Agile Development
+and Scrum. I'm John Rofrano, and I'll be your instructor
+throughout this course that not only teaches you what agile is, but introduces you to the
+tools and techniques that I have used over the years, to become Agile. According to Project Management Institute,
+more than 70 percent of organizations have incorporated some Agile approaches and 77%
+of companies adopt scrum. Additionally, more than 25 percent of manufacturing
+firms use Agile exclusively. And based on research from Price Waterhouse
+Coopers, Agile projects are 28% more successful than traditional projects. Unfortunately, 47% of all Agile transformations
+fail, according to Forbes. 47%... that's almost half. Why do you think that is? One study by VersionOne shows the number one
+reason Agile projects fail is inexperience with implementing and integrating the Agile
+methodology. You see, Agile is not just a process that
+you follow. It's a mindset that you become. It's a philosophy that requires you to think
+differently about managing teams and projects. Executive leadership needs to change their
+long-term focus and instead focus on delivering value quickly and iteratively to delight their
+customers. In order to succeed at becoming agile, you
+must change the company culture. Another reason Agile projects fail is that
+Agile is not something you can simply learn from a book. I like to use the analogy of learning how
+to drive a car. Those of you who drive know that they don't
+give you the keys to the car and the owner's manual and say, "Here, go learn how to drive." Someone who has driven before usually goes
+out with you, sitting in the passenger seat, telling you what to watch out for and how
+hard to press on the gas or the brake pedal. You have to practice with an instructor to
+acquire the skills to drive. Agile is a lot like that. For this course, I will be instructing you
+on not only what to do, but what to look out for. We will discuss both patterns and anti-patterns
+because recognizing when something is wrong is just as important as knowing how to do
+something right. You will learn the importance of being organized
+into small, co-located, cross-functional teams and how to empower your teams to be self-managing
+so they can make decisions faster. I will teach you how to perform agile planning
+with practical examples taken from software development that you can apply to your own
+situation, regardless of what you are developing. You will see how concepts from lean manufacturing
+have found their way into Agile and scrum, and how at the end of every iteration you
+should ask yourself, "Do we pivot, or persevere?" In other words, should we change course and
+try something new, or keep going the way you are? This course will equip you with what you need
+to be successful in implementing Agile in your organization. So, absorb the videos, reinforce your learning
+with the quizzes, and use the discussion forums to talk with your peers and classmates. Like anything else, the more you practice,
+the better you get, so make sure you challenge yourself to complete the hands-on honors module
+at the end and start building your Agile planning skills. Congratulations on embarking on this exciting
+journey, and good luck!
